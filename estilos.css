@@ -1,0 +1,19 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#Imagen{
+    margin-top: 50px;
+    height: 200px;
+}
+
+#boton{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(231, 233, 231);
+    color: black;
+    font-weight: bold;
+    border-radius: 20px;
+    width: 200px;
+    height: 70px;
+}
